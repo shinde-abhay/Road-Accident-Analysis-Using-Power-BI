@@ -137,7 +137,6 @@ Useful for analyzing night-time risk.
 ### Dashboard Screenshot  
 ![Road Accident Dashboard](Road%20Accident%20Analysis.png)
 
-*(Place the PNG file inside your GitHub repository for the preview to render.)*
 
 ---
 
