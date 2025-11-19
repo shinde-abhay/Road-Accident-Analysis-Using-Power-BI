@@ -135,7 +135,7 @@ Useful for analyzing night-time risk.
 ## 📌 7. Dashboard Preview  
 
 ### Dashboard Screenshot  
-![Road Accident Dashboard](Road%20Accident%20Analysis.png)
+![Road Accident Dashboard]([Road%20Accident%20Analysis.png](https://github.com/shinde-abhay/Road-Accident-Analysis-Using-Power-BI/blob/main/Road%20Accident%20Analysis.png)
 
 
 ---
